@@ -1,0 +1,11 @@
+
+
+I have added the features for the postcode estimator in Java and used Java Swing for the UI.
+
+If I had more time the features I would include would be:
+
+- Postcode validator - Check if the postcode was valid
+
+- More appealing UI - using React I would've created a UI that was adaptable to different environments
+  
+
